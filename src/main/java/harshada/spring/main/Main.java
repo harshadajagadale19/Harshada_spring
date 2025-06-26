@@ -15,5 +15,6 @@ public static void main(String[] args) {
 	System.out.println(emp2);*/
 	Nation nation=context.getBean("nation",Nation.class);
 	System.out.println(nation);
+	System.out.println("git succeed");
 }
 }
